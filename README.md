@@ -1,3 +1,5 @@
+# WE ARE UPDATING OUR DATASET
+
 # DAWQAS
 A Dataset for Arabic Why Question Answering System
 
