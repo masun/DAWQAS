@@ -4,7 +4,7 @@
 A Dataset for Arabic Why Question Answering System
 
 ## Published Articles
-(Under revision) DAWQAS: A Dataset for Arabic Why Question Answering System, 4th International Conference on Arabic Computational Linguistics, ACLing 2018, November 17-19, 2018, Dubai, UAE.
+(Accepted paper) DAWQAS: A Dataset for Arabic Why Question Answering System, 4th International Conference on Arabic Computational Linguistics, ACLing 2018, November 17-19, 2018, Dubai, UAE.
 
 ## Contact
 Assistant Professor Walaa Saber, Emirates Collage of Technology, United Arab Emirates, walaa.saber at ect.ac.ae
