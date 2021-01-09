@@ -1,4 +1,4 @@
-This is the first version.
+This is the first version and I am working on the other features described in the paper.
 # DAWQAS
 A Dataset for Arabic Why Question Answering System
 
